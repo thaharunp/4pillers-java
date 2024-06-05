@@ -1,7 +1,7 @@
-abstract class Account extends Bank{
+ abstract class Account extends Bank{
     private int acc_id;
     private String acc_name;
-    private int acc_sal;
+    private int acc_bal;
      
          public int getacc_id() {
         return acc_id;
